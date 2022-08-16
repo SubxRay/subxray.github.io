@@ -39,7 +39,7 @@ window.onload = () => navSlide();
 //Editable my-role using setInterval
 
 let i = 0;
-let names = ["A Web developer & designer", "A Node.js developer", "A Discord bot developer"];
+let names = [""A Web developer & designer", "A Node.js developer", "A Discord bot developer"];
 
 function change() {
   document.querySelectorAll(".my-role").forEach(el => el.innerHTML = names[i]);
