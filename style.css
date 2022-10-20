@@ -223,12 +223,11 @@ h3:hover{
   text-shadow: 0 0 50px #1DB954;
 }
 
-.fa-youtube:hover{
-  color: #ff0000;
-  text-shadow: 0 0 50px #ffffff;
- /* background: #ffffff;
-  padding: 0.1px; 
-  border-radius: 100%;*/
+.fa-instagram:hover{
+  background: -webkit-radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 
