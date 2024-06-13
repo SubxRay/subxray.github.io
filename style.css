@@ -133,8 +133,8 @@ a.nav-link{
 	color: var(--main-fonts-color);
         text-shadow: 0px 0px 40px var(--main-decor-color);
 
-a.opium{
-        color: inherit;
+.opium{
+        color: var(--main-fonts-color);
 }
 	 
 /*
