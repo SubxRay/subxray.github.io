@@ -132,6 +132,14 @@ a.nav-link{
 	font-size: 45px;
 	color: var(--main-fonts-color);
         text-shadow: 0px 0px 40px var(--main-decor-color);
+
+.opium{
+        color: var(--main-fonts-color);
+	font-family: var(--main-font-family);
+	cursor: pointer;
+	text-transform: uppercase;
+}
+	 
 /*
   -ms-user-select: none;
   -webkit-user-select: none;
